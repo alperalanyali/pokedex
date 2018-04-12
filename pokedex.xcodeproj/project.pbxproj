@@ -54,14 +54,22 @@
 		873026752080091E00617F4B /* pokedex */ = {
 			isa = PBXGroup;
 			children = (
-				873026762080091E00617F4B /* AppDelegate.swift */,
 				873026782080091E00617F4B /* ViewController.swift */,
 				8730267A2080091F00617F4B /* Main.storyboard */,
-				8730267D2080095200617F4B /* Assets.xcassets */,
-				8730267F2080095200617F4B /* LaunchScreen.storyboard */,
 				873026822080095200617F4B /* Info.plist */,
+				8730268820800AEF00617F4B /* Supporting Files */,
 			);
 			path = pokedex;
+			sourceTree = "<group>";
+		};
+		8730268820800AEF00617F4B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				873026762080091E00617F4B /* AppDelegate.swift */,
+				8730267D2080095200617F4B /* Assets.xcassets */,
+				8730267F2080095200617F4B /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
